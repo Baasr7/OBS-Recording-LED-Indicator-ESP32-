@@ -19,8 +19,8 @@ ESP32 blinks / lights the LED
 ```
 
 Two protocols in play:
-- **WebSocket** — between OBS and Python (persistent, event-driven)
-- **HTTP** — between Python and ESP32 (one request per event)
+- **WebSocket** — between OBS and Python 
+- **HTTP** — between Python and ESP32 
 
 ---
 
